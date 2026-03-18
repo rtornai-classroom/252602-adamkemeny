@@ -1,0 +1,10 @@
+﻿  Sourse.cpp
+Sourse.obj : error LNK2019: unresolved external symbol __imp_glBegin referenced in function main
+Sourse.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function main
+Sourse.obj : error LNK2019: unresolved external symbol __imp_glClearColor referenced in function main
+Sourse.obj : error LNK2019: unresolved external symbol __imp_glColor3f referenced in function main
+Sourse.obj : error LNK2019: unresolved external symbol __imp_glDrawArrays referenced in function main
+Sourse.obj : error LNK2019: unresolved external symbol __imp_glEnd referenced in function main
+Sourse.obj : error LNK2019: unresolved external symbol __imp_glLineWidth referenced in function main
+Sourse.obj : error LNK2019: unresolved external symbol __imp_glVertex2f referenced in function main
+C:\Users\xy\Documents\KA_2023-2027\6.felev\Számítógépes grafika\Beadando_1\x64\Debug\Beadando_1.exe : fatal error LNK1120: 8 unresolved externals

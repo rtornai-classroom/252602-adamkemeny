@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\OneDrive\Documentos\Ádám\Egyetem\6.félév\Grafika\Beadando_1\Beadando_1\Source.cpp(95,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Documentos\Ádám\Egyetem\6.félév\Grafika\Beadando_1\Beadando_1\Source.cpp(114,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Beadando_1.vcxproj -> C:\Users\user\OneDrive\Documentos\Ádám\Egyetem\6.félév\Grafika\Beadando_1\Debug\Beadando_1.exe
